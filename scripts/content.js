@@ -1,4 +1,4 @@
-console.log('Stop watching YouTube or other evils');
+console.log('Stop watching YouTube or other the devil');
 
 const bodyElement = document.querySelector('body');
 
